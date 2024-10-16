@@ -1,0 +1,13 @@
+code versionctrl.txt       -- opens the file in vscode
+
+git init    --   is used to intialise
+
+
+git status  --   used to check the files in the stagging area
+
+git add versionctrl.txt  -- used to add the versionctrl.txt file into the stagging area
+
+git commit -m "message"   --  used to commit
+
+
+git log  --  used to check the commit and their timings
